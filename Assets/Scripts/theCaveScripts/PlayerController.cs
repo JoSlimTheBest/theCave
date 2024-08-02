@@ -12,8 +12,16 @@ public class PlayerController : MonoBehaviour
     public float jumpS = 2;
     private float closeJump;
 
+    public GameObject damageZoneLeft;
+    public GameObject damageZoneRight;
+
 
     private bool roarActive;
+    private bool fightActive;
+
+
+    public int damagePlayer;
+    
 
     private void Start()
     {
@@ -34,9 +42,35 @@ public class PlayerController : MonoBehaviour
         roarActive = false;
         GetComponent<Animator>().SetBool("RoarNow", false);
     }
+
+    public void FightNow()
+    {
+        GetComponent<Animator>().SetBool("Fight",true);
+        if (GetComponent<SpriteRenderer>().flipX == true)
+        {
+            damageZoneLeft.GetComponent<Damage>().damage = damagePlayer;
+            damageZoneRight.GetComponent<Damage>().damage = 0;
+        }
+        else
+        {
+            damageZoneRight.GetComponent<Damage>().damage = damagePlayer;
+            damageZoneLeft.GetComponent<Damage>().damage = 0;
+        }
+
+        fightActive = true;
+        Invoke("FightCancel", 1.5f);
+    }
+
+    public void FightCancel()
+    {
+        GetComponent<Animator>().SetBool("Fight", false);
+        damageZoneLeft.GetComponent<Damage>().damage = 0;
+        damageZoneRight.GetComponent<Damage>().damage = 0;
+        fightActive = false;
+    }
     private void FixedUpdate()
     {
-        if (roarActive == true) { return; }
+        if (roarActive == true || fightActive == true) { return; }
         closeJump -= Time.deltaTime;
         if (Input.GetKey(KeyCode.Space))
         {   
@@ -47,6 +81,11 @@ public class PlayerController : MonoBehaviour
                 closeJump = timeJump;
             }
            
+        }
+
+        if (Input.GetKey(KeyCode.F))
+        {
+            FightNow();
         }
 
        
