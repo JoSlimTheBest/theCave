@@ -10,6 +10,7 @@ public class TextToTop : MonoBehaviour
     public void Start()
     {
         Destroy(gameObject, 2f);
+        
     }
     void FixedUpdate()
     {

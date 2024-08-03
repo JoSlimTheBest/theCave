@@ -39,7 +39,25 @@ public class Health : MonoBehaviour
         if (health != null && damage != null)
         {
             GameObject damageText = Instantiate(damageOnScreen, Camera.main.WorldToScreenPoint(transform.position), Quaternion.identity, worldCanvas.transform);
+            if(damage.damage <= 0)
+            {
+                return;
+            }
             damageText.GetComponent<TextMeshProUGUI>().text = damage.damage.ToString();
+
+            if(damage.damage < 10)
+            {
+                damageText.GetComponent<TextMeshProUGUI>().color = Color.white;
+            }
+            if(damage.damage > 10&&damage.damage< 20)
+            {
+                damageText.GetComponent<TextMeshProUGUI>().color = Color.blue;
+            }
+          
+            if(damage.damage > 20)
+            {
+                damageText.GetComponent<TextMeshProUGUI>().color = Color.red;
+            }
             health.ChangeHealth(-damage.GetDamage());
             
 

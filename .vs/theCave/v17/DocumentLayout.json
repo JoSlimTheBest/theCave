@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\GitRepositor\\theCave\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|c:\\gitrepositor\\thecave\\assets\\scripts\\thecavescripts\\texttotop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thecavescripts\\texttotop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|c:\\gitrepositor\\thecave\\assets\\scripts\\thecavescripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|C:\\GitRepositor\\theCave\\assets\\scripts\\thecavescripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thecavescripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|C:\\GitRepositor\\theCave\\assets\\scripts\\thecavescripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thecavescripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|C:\\GitRepositor\\theCave\\assets\\scripts\\thecavescripts\\damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thecavescripts\\damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|c:\\gitrepositor\\thecave\\assets\\scripts\\thecavescripts\\texttotop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thecavescripts\\texttotop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|C:\\GitRepositor\\theCave\\assets\\scripts\\thecavescripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thecavescripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "TextToTop.cs",
               "DocumentMoniker": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\TextToTop.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\theCaveScripts\\TextToTop.cs",
               "ToolTip": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\TextToTop.cs",
               "RelativeToolTip": "Assets\\Scripts\\theCaveScripts\\TextToTop.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA9AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-02T21:40:01.829Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Damage.cs",
               "DocumentMoniker": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\Damage.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\theCaveScripts\\Damage.cs",
@@ -51,32 +51,34 @@
               "RelativeToolTip": "Assets\\Scripts\\theCaveScripts\\Damage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T18:06:08.907Z"
+              "WhenOpened": "2024-08-02T18:06:08.907Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Health.cs",
               "DocumentMoniker": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\Health.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\theCaveScripts\\Health.cs",
               "ToolTip": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\Health.cs",
               "RelativeToolTip": "Assets\\Scripts\\theCaveScripts\\Health.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAIA6wCgAAAByAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAjwCsAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-02T17:52:12.002Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\theCaveScripts\\PlayerController.cs",
               "ToolTip": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\theCaveScripts\\PlayerController.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAArwDwAAAAkAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAArwDwAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T14:54:47.718Z"
+              "WhenOpened": "2024-08-02T14:54:47.718Z",
+              "EditorCaption": ""
             }
           ]
         }

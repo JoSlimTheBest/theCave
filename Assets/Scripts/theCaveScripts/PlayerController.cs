@@ -58,7 +58,7 @@ public class PlayerController : MonoBehaviour
         }
 
         fightActive = true;
-        Invoke("FightCancel", 1.5f);
+        Invoke("FightCancel", 3f);
     }
 
     public void FightCancel()
