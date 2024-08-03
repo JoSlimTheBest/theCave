@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\GitRepositor\\theCave\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|C:\\GitRepositor\\theCave\\assets\\scripts\\thecavescripts\\witchintellect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thecavescripts\\witchintellect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|C:\\GitRepositor\\theCave\\assets\\scripts\\thecavescripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thecavescripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|C:\\GitRepositor\\theCave\\assets\\scripts\\thecavescripts\\damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thecavescripts\\damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|c:\\gitrepositor\\thecave\\assets\\scripts\\thecavescripts\\texttotop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thecavescripts\\texttotop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|c:\\gitrepositor\\thecave\\assets\\scripts\\thecavescripts\\ghostintellect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thecavescripts\\ghostintellect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|C:\\GitRepositor\\theCave\\assets\\scripts\\thecavescripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thecavescripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|C:\\GitRepositor\\theCave\\assets\\scripts\\thecavescripts\\mycamerascripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thecavescripts\\mycamerascripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|c:\\gitrepositor\\thecave\\assets\\scripts\\thecavescripts\\autodestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thecavescripts\\autodestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|C:\\GitRepositor\\theCave\\assets\\scripts\\thecavescripts\\texttotop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thecavescripts\\texttotop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|C:\\GitRepositor\\theCave\\assets\\scripts\\thecavescripts\\damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thecavescripts\\damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +46,59 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutoDestroy.cs",
+              "DocumentMoniker": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\AutoDestroy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\theCaveScripts\\AutoDestroy.cs",
+              "ToolTip": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\AutoDestroy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\theCaveScripts\\AutoDestroy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:11:08.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyCameraScripts.cs",
+              "DocumentMoniker": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\MyCameraScripts.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\theCaveScripts\\MyCameraScripts.cs",
+              "ToolTip": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\MyCameraScripts.cs",
+              "RelativeToolTip": "Assets\\Scripts\\theCaveScripts\\MyCameraScripts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:06:55.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WitchIntellect.cs",
+              "DocumentMoniker": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\WitchIntellect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\theCaveScripts\\WitchIntellect.cs",
+              "ToolTip": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\WitchIntellect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\theCaveScripts\\WitchIntellect.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T13:37:18.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "GhostIntellect.cs",
+              "DocumentMoniker": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\GhostIntellect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\theCaveScripts\\GhostIntellect.cs",
+              "ToolTip": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\GhostIntellect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\theCaveScripts\\GhostIntellect.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvxMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T11:24:59.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "TextToTop.cs",
               "DocumentMoniker": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\TextToTop.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\theCaveScripts\\TextToTop.cs",
@@ -38,12 +106,11 @@
               "RelativeToolTip": "Assets\\Scripts\\theCaveScripts\\TextToTop.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T21:40:01.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-02T21:40:01.829Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Damage.cs",
               "DocumentMoniker": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\Damage.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\theCaveScripts\\Damage.cs",
@@ -51,18 +118,17 @@
               "RelativeToolTip": "Assets\\Scripts\\theCaveScripts\\Damage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T18:06:08.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-02T18:06:08.907Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Health.cs",
               "DocumentMoniker": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\Health.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\theCaveScripts\\Health.cs",
               "ToolTip": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\Health.cs",
               "RelativeToolTip": "Assets\\Scripts\\theCaveScripts\\Health.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAjwCsAAAAXAAAA",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAqwFYAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-02T17:52:12.002Z",
               "EditorCaption": ""
@@ -75,7 +141,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\theCaveScripts\\PlayerController.cs",
               "ToolTip": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\theCaveScripts\\PlayerController.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAArwDwAAAAfAAAA",
+              "ViewState": "AQIAADwAAAAAAAAAAAAIwE0AAAB7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-02T14:54:47.718Z",
               "EditorCaption": ""

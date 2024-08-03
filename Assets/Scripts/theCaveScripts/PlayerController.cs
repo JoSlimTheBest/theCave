@@ -1,7 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEditor;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour
 {
@@ -21,7 +23,8 @@ public class PlayerController : MonoBehaviour
 
 
     public int damagePlayer;
-    
+    public Slider sliderHp;
+    public TextMeshProUGUI hpText;
 
     private void Start()
     {
@@ -70,6 +73,11 @@ public class PlayerController : MonoBehaviour
     }
     private void FixedUpdate()
     {
+        sliderHp.value = GetComponent<Health>().currentHealth;
+        sliderHp.maxValue = GetComponent<Health>().maxHealth;
+        hpText.text = GetComponent<Health>().currentHealth.ToString() + " / " + GetComponent<Health>().maxHealth.ToString();
+
+
         if (roarActive == true || fightActive == true) { return; }
         closeJump -= Time.deltaTime;
         if (Input.GetKey(KeyCode.Space))

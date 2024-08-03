@@ -34,15 +34,18 @@ public class Health : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
+
+        if (currentHealth <= 0) { return; }
         Health health = gameObject.GetComponent<Health>();
         Damage damage = collision.gameObject.GetComponent<Damage>();
         if (health != null && damage != null)
         {
-            GameObject damageText = Instantiate(damageOnScreen, Camera.main.WorldToScreenPoint(transform.position), Quaternion.identity, worldCanvas.transform);
-            if(damage.damage <= 0)
+            if (damage.damage <= 0)
             {
                 return;
             }
+            GameObject damageText = Instantiate(damageOnScreen, Camera.main.WorldToScreenPoint(transform.position), Quaternion.identity, worldCanvas.transform);
+           
             damageText.GetComponent<TextMeshProUGUI>().text = damage.damage.ToString();
 
             if(damage.damage < 10)
@@ -63,7 +66,26 @@ public class Health : MonoBehaviour
 
 
         }
+
+
+        if(currentHealth <= 0)
+        {
+            Death();
+        }
     }
 
+
+    public void Death()
+    {
+        if (GetComponent<GhostIntellect>() != null)
+        {
+            GetComponent<GhostIntellect>().Dead();
+        }
+
+        if (GetComponent<WitchIntellect>() != null)
+        {
+            GetComponent<WitchIntellect>().Dead();
+        }
+    }
 
 }
