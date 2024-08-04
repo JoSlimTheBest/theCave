@@ -841,7 +841,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 50dd38a5e7b7f98408ba5f8e033ae882, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  damage: 0
+  damage: 20
+  changer: 7
 --- !u!61 &92450495
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1616,7 +1617,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 50dd38a5e7b7f98408ba5f8e033ae882, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  damage: 0
+  damage: 20
+  changer: 7
 --- !u!1 &279569624
 GameObject:
   m_ObjectHideFlags: 0
@@ -5976,7 +5978,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -3
+  m_SortingOrder: -1
   m_Sprite: {fileID: 21300000, guid: c9065cde236f28a45868ee578ba3ceb2, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 1
@@ -6061,6 +6063,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentHealth: 0
   maxHealth: 1000
+  blockHIT: 0
+  sliderInsta: {fileID: 0}
+  sliderHp: {fileID: 0}
+  hpText: {fileID: 0}
 --- !u!1 &1488679677
 GameObject:
   m_ObjectHideFlags: 0
@@ -8222,10 +8228,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Witch
       objectReference: {fileID: 0}
-    - target: {fileID: 3345231744970892350, guid: a73590eea1b2b9f4d8a1cf64492c0ee9, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 6399538482605558374, guid: a73590eea1b2b9f4d8a1cf64492c0ee9, type: 3}
       propertyPath: m_LocalPosition.x
       value: 7
@@ -8271,6 +8273,63 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a73590eea1b2b9f4d8a1cf64492c0ee9, type: 3}
+--- !u!1001 &5855984327747569669
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4328178506741990005, guid: 0eb69e0d4225ad148ad4468a5c9ba4d3, type: 3}
+      propertyPath: m_Name
+      value: Knight
+      objectReference: {fileID: 0}
+    - target: {fileID: 7418382917667436814, guid: 0eb69e0d4225ad148ad4468a5c9ba4d3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 22.976812
+      objectReference: {fileID: 0}
+    - target: {fileID: 7418382917667436814, guid: 0eb69e0d4225ad148ad4468a5c9ba4d3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 7418382917667436814, guid: 0eb69e0d4225ad148ad4468a5c9ba4d3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7418382917667436814, guid: 0eb69e0d4225ad148ad4468a5c9ba4d3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7418382917667436814, guid: 0eb69e0d4225ad148ad4468a5c9ba4d3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7418382917667436814, guid: 0eb69e0d4225ad148ad4468a5c9ba4d3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7418382917667436814, guid: 0eb69e0d4225ad148ad4468a5c9ba4d3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7418382917667436814, guid: 0eb69e0d4225ad148ad4468a5c9ba4d3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7418382917667436814, guid: 0eb69e0d4225ad148ad4468a5c9ba4d3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7418382917667436814, guid: 0eb69e0d4225ad148ad4468a5c9ba4d3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0eb69e0d4225ad148ad4468a5c9ba4d3, type: 3}
 --- !u!1001 &5901012016435308329
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8323,6 +8382,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wizzard
       objectReference: {fileID: 0}
+    - target: {fileID: 3831732239830935349, guid: 97304367db3e6524d8a87c6f19072617, type: 3}
+      propertyPath: changer
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 4159934938933939003, guid: 97304367db3e6524d8a87c6f19072617, type: 3}
+      propertyPath: changer
+      value: 20
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8344,3 +8411,4 @@ SceneRoots:
   - {fileID: 1296918108}
   - {fileID: 1789945896}
   - {fileID: 5901012016435308329}
+  - {fileID: 5855984327747569669}

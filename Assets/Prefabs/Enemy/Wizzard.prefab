@@ -22,7 +22,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1124605208013160911
 Transform:
   m_ObjectHideFlags: 0
@@ -200,7 +200,7 @@ MonoBehaviour:
   player: {fileID: 0}
   cameraM: {fileID: 0}
   atackRange: 8.5
-  coldownAtack: 4
+  coldownAtack: 3
   leftWeapon: {fileID: 3193981956719240719}
   rightWeapon: {fileID: 5962275527557811349}
   stopIt: 0
@@ -221,8 +221,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentHealth: 0
   maxHealth: 150
-  damageOnScreen: {fileID: 0}
-  worldCanvas: {fileID: 0}
+  blockHIT: 0
+  sliderInsta: {fileID: 0}
+  sliderHp: {fileID: 0}
+  hpText: {fileID: 0}
 --- !u!82 &-3701078142555474016
 AudioSource:
   m_ObjectHideFlags: 0

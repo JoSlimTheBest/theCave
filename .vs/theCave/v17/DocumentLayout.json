@@ -3,19 +3,39 @@
   "WorkspaceRootPath": "C:\\GitRepositor\\theCave\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|c:\\gitrepositor\\thecave\\assets\\scripts\\thecavescripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thecavescripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|C:\\GitRepositor\\theCave\\assets\\scripts\\thecavescripts\\damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thecavescripts\\damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|C:\\GitRepositor\\theCave\\assets\\scripts\\thecavescripts\\knightintellect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thecavescripts\\knightintellect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|C:\\GitRepositor\\theCave\\assets\\scripts\\thecavescripts\\wizzardintellect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thecavescripts\\wizzardintellect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|C:\\GitRepositor\\theCave\\assets\\scripts\\thecavescripts\\witchintellect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thecavescripts\\witchintellect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|c:\\gitrepositor\\thecave\\assets\\scripts\\thecavescripts\\wizzardintellect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thecavescripts\\wizzardintellect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|c:\\gitrepositor\\thecave\\assets\\scripts\\thecavescripts\\hpfallow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thecavescripts\\hpfallow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|C:\\GitRepositor\\theCave\\assets\\scripts\\thecavescripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thecavescripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|C:\\GitRepositor\\theCave\\assets\\scripts\\thecavescripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thecavescripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|c:\\gitrepositor\\thecave\\assets\\scripts\\thecavescripts\\staffwizzard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|C:\\GitRepositor\\theCave\\assets\\scripts\\thecavescripts\\texttotop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thecavescripts\\texttotop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|C:\\GitRepositor\\theCave\\assets\\scripts\\thecavescripts\\staffwizzard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thecavescripts\\staffwizzard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,20 +47,8 @@
       "RelativeMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thecavescripts\\ghostintellect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|C:\\GitRepositor\\theCave\\assets\\scripts\\thecavescripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thecavescripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|C:\\GitRepositor\\theCave\\assets\\scripts\\thecavescripts\\autodestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thecavescripts\\autodestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|C:\\GitRepositor\\theCave\\assets\\scripts\\thecavescripts\\texttotop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thecavescripts\\texttotop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|C:\\GitRepositor\\theCave\\assets\\scripts\\thecavescripts\\damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D793868-2AE3-B320-4313-CB95F8BA7E4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thecavescripts\\damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,11 +58,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HpFallow.cs",
+              "DocumentMoniker": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\HpFallow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\theCaveScripts\\HpFallow.cs",
+              "ToolTip": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\HpFallow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\theCaveScripts\\HpFallow.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCQAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T13:32:58.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\theCaveScripts\\Health.cs",
+              "ToolTip": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\Health.cs",
+              "RelativeToolTip": "Assets\\Scripts\\theCaveScripts\\Health.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAQwD8AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T17:52:12.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KnightIntellect.cs",
+              "DocumentMoniker": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\KnightIntellect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\theCaveScripts\\KnightIntellect.cs",
+              "ToolTip": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\KnightIntellect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\theCaveScripts\\KnightIntellect.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAiwHIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T10:32:29.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "WizzardIntellect.cs",
+              "DocumentMoniker": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\WizzardIntellect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\theCaveScripts\\WizzardIntellect.cs",
+              "ToolTip": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\WizzardIntellect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\theCaveScripts\\WizzardIntellect.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAqwDcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T21:59:34.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "StaffWizzard.cs",
               "DocumentMoniker": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\StaffWizzard.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\theCaveScripts\\StaffWizzard.cs",
@@ -62,25 +122,11 @@
               "RelativeToolTip": "Assets\\Scripts\\theCaveScripts\\StaffWizzard.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T22:49:07.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T22:49:07.811Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WizzardIntellect.cs",
-              "DocumentMoniker": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\WizzardIntellect.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\theCaveScripts\\WizzardIntellect.cs",
-              "ToolTip": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\WizzardIntellect.cs",
-              "RelativeToolTip": "Assets\\Scripts\\theCaveScripts\\WizzardIntellect.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB4AAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T21:59:34.259Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "WitchIntellect.cs",
               "DocumentMoniker": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\WitchIntellect.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\theCaveScripts\\WitchIntellect.cs",
@@ -93,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "AutoDestroy.cs",
               "DocumentMoniker": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\AutoDestroy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\theCaveScripts\\AutoDestroy.cs",
@@ -105,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "MyCameraScripts.cs",
               "DocumentMoniker": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\MyCameraScripts.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\theCaveScripts\\MyCameraScripts.cs",
@@ -113,12 +159,11 @@
               "RelativeToolTip": "Assets\\Scripts\\theCaveScripts\\MyCameraScripts.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T16:06:55.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T16:06:55.847Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "GhostIntellect.cs",
               "DocumentMoniker": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\GhostIntellect.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\theCaveScripts\\GhostIntellect.cs",
@@ -130,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "TextToTop.cs",
               "DocumentMoniker": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\TextToTop.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\theCaveScripts\\TextToTop.cs",
@@ -142,27 +187,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "Damage.cs",
               "DocumentMoniker": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\Damage.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\theCaveScripts\\Damage.cs",
               "ToolTip": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\Damage.cs",
               "RelativeToolTip": "Assets\\Scripts\\theCaveScripts\\Damage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T18:06:08.907Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Health.cs",
-              "DocumentMoniker": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\Health.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\theCaveScripts\\Health.cs",
-              "ToolTip": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\Health.cs",
-              "RelativeToolTip": "Assets\\Scripts\\theCaveScripts\\Health.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T17:52:12.002Z",
+              "WhenOpened": "2024-08-02T18:06:08.907Z",
               "EditorCaption": ""
             },
             {
@@ -173,7 +206,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\theCaveScripts\\PlayerController.cs",
               "ToolTip": "C:\\GitRepositor\\theCave\\Assets\\Scripts\\theCaveScripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\theCaveScripts\\PlayerController.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAIwE0AAAB7AAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAE0AAAB8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-02T14:54:47.718Z"
             }

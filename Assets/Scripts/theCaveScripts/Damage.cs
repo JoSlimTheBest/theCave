@@ -5,11 +5,13 @@ using UnityEngine;
 public class Damage : MonoBehaviour
 {
     public int damage = 0;
+    public int changer = 5;
 
 
     public int GetDamage()
     {
-        return damage;
+        int currendDamage = damage - (Random.Range(-changer,changer));
+        return currendDamage;
     }
 
     public void SetDamage(int value)

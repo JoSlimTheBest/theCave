@@ -22,7 +22,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &6399538482605558374
 Transform:
   m_ObjectHideFlags: 0
@@ -218,8 +218,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentHealth: 300
   maxHealth: 300
-  damageOnScreen: {fileID: 0}
-  worldCanvas: {fileID: 0}
+  blockHIT: 0
+  sliderInsta: {fileID: 0}
+  sliderHp: {fileID: 0}
+  hpText: {fileID: 0}
 --- !u!82 &8567187269454076266
 AudioSource:
   m_ObjectHideFlags: 0
