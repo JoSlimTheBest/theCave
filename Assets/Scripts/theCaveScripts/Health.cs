@@ -10,8 +10,8 @@ public class Health : MonoBehaviour
     public int maxHealth = 100;
 
 
-    public GameObject damageOnScreen;
-    public GameObject worldCanvas;
+    private GameObject damageOnScreen;
+    private GameObject worldCanvas;
     
     void Start()
     {
@@ -85,6 +85,11 @@ public class Health : MonoBehaviour
         if (GetComponent<WitchIntellect>() != null)
         {
             GetComponent<WitchIntellect>().Dead();
+        }
+
+        if (GetComponent<WizzardIntellect>() != null)
+        {
+            GetComponent<WizzardIntellect>().Dead();
         }
     }
 

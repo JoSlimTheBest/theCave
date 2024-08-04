@@ -14,6 +14,8 @@ GameObject:
   - component: {fileID: 5776392093955163441}
   - component: {fileID: 3831516632910630154}
   - component: {fileID: 4807016836765672257}
+  - component: {fileID: 3378483500633971938}
+  - component: {fileID: 8567187269454076266}
   m_Layer: 3
   m_Name: Witch
   m_TagString: Untagged
@@ -193,3 +195,124 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 050ff67678eec504b80637a6134fd13e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  player: {fileID: 0}
+  ghost: {fileID: 3754436065234439832, guid: d1aaf096d792a914a96e33f8805b70e5, type: 3}
+  strenghJump: 700
+  strenghSide: 250
+  timeJump: 10
+  timeSummon: 12
+  deathSprite: {fileID: 127021789, guid: e1b788b69a612a34ab2b3f7302e36fec, type: 3}
+  clipDeath: {fileID: 8300000, guid: 30fcf7143e9ce0e4383882fa6c05f927, type: 3}
+  prefabDeathParticle: {fileID: 1574473899128564, guid: 935eb2d11c5e2ae46bdb6ab28b2292e5, type: 3}
+--- !u!114 &3378483500633971938
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3345231744970892350}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f04a0372eb89df418b47c8d952fab14, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentHealth: 300
+  maxHealth: 300
+  damageOnScreen: {fileID: 0}
+  worldCanvas: {fileID: 0}
+--- !u!82 &8567187269454076266
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3345231744970892350}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 24300002, guid: 1c829635695356344886f780a592a1fc, type: 2}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4

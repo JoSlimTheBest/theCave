@@ -16,6 +16,8 @@ public class WitchIntellect : MonoBehaviour
 
     public Sprite deathSprite;
 
+    public AudioClip clipDeath;
+    public GameObject prefabDeathParticle;
 
     private bool stopIt;
 
@@ -33,6 +35,9 @@ public class WitchIntellect : MonoBehaviour
 
         stopIt = true;
         Invoke("StaticDeath",2f);
+        GetComponent<BoxCollider2D>().enabled = false;
+        GetComponent<Rigidbody2D>().isKinematic = true;
+        GetComponent<AudioSource>().PlayOneShot(clipDeath);
         Destroy(gameObject,10f);
     }
 
@@ -40,6 +45,7 @@ public class WitchIntellect : MonoBehaviour
     {
         GetComponent<Animator>().enabled = false;
         GetComponent<SpriteRenderer>().sprite = deathSprite;
+        Instantiate(prefabDeathParticle,transform.position,Quaternion.identity);
     }
 
 

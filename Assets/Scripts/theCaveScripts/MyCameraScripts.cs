@@ -8,7 +8,7 @@ public class MyCameraScripts : MonoBehaviour
     public GameObject player;
     public Camera cameraM;
 
-    public void Start()
+    public void Awake()
     {
         player = GameObject.Find("Player");
         cameraM = Camera.main;
