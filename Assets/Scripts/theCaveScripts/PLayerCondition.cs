@@ -2,19 +2,20 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MyCameraScripts : MonoBehaviour
+public class PLayerCondition : MonoBehaviour
 {
 
     public GameObject player;
-    public Camera cameraM;
+    public GameObject objectAct;
+    public float zCondition;
 
     public void Awake()
     {
         player = GameObject.Find("Player");
-        cameraM = Camera.main;
+       
     }
     public void Update()
     {
-        cameraM.transform.position = new Vector3(player.transform.position.x, 0, -10);
+       
     }
 }

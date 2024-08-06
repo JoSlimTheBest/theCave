@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class KnightIntellect : MyCameraScripts
+public class KnightIntellect : PLayerCondition
 {
     public float atackRange = 4;
     public float coldownAtack = 5;

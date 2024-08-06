@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Unity.Collections;
 using UnityEngine;
 
-public class WizzardIntellect : MyCameraScripts
+public class WizzardIntellect : PLayerCondition
 {
 
     public float atackRange = 4;
